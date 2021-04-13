@@ -21,4 +21,7 @@ public class OrderConsulController {
         String result = restTemplate.getForObject(INVOKE_URL+"/payment/consul",String.class);
         return result;
     }
+
+
+
 }

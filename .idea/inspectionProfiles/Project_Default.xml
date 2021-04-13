@@ -8,6 +8,8 @@
     <inspection_tool class="FlowRequiredBeanTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="InjectionValueTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="JdkProxiedBeanTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MybatisMapperMethodInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MybatisMapperXmlInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="RequiredBeanTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SpringAopErrorsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SpringBatchModel" enabled="true" level="WARNING" enabled_by_default="true" />
